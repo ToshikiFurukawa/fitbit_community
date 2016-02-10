@@ -1,0 +1,18 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: localhost
+  username: postgres
+
+development:
+  <<: *default
+  database: fitbit_community_development​
+
+test:
+  <<: *default
+  database: fitbit_community_app_test
+
+production:
+  <<: *default
+  database: fitbit_community_production
