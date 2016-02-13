@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  root  'static_pages#home'
+  devise_for :users
+  # get   'static_pages/index'
+  root  'static_pages#index'
   get   'static_pages/login'
   get   'static_pages/tags'
 end

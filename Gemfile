@@ -7,6 +7,8 @@ gem  'pg'
 
 gem 'slim-rails'
 
+gem 'devise'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -40,6 +42,7 @@ group :development, :test do
 end
 
 group :development do
+  gem 'letter_opener'
   gem 'pry-rails'
   gem 'pry-byebug'
   gem 'pry-doc'
