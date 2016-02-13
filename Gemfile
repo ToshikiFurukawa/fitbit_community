@@ -7,6 +7,8 @@ gem  'pg'
 
 gem 'slim-rails'
 
+gem 'bootstrap-sass'
+
 gem 'devise'
 
 # Use SCSS for stylesheets

@@ -8,12 +8,13 @@ html
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
     = csrf_meta_tags
   body
+    = render 'layouts/header'
     = yield
     - if notice 
-      p.alert.alert-success = notice 
+        p.alert.alert-success = notice 
     - if alert
-      p.alert.alert-danger = alert 
-    
+        p.alert.alert-danger = alert 
+    = render 'layouts/footer'
     
     
     

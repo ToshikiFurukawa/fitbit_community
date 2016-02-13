@@ -1,0 +1,18 @@
+gray-medium-light	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^$gray-medium-light: #eaeaea;$/;"	function	line:8
+body	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^body {$/;"	function	line:12
+section	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^section {$/;"	function	line:16
+textarea	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^textarea {$/;"	function	line:20
+.center	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^.center {$/;"	function	line:24
+h1	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^  h1 {$/;"	function	line:26
+h1, h2, h3, h4, h5, h6	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^h1, h2, h3, h4, h5, h6 {$/;"	function	line:33
+h1	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^h1 {$/;"	function	line:37
+h2	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^h2 {$/;"	function	line:43
+p	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^p {$/;"	function	line:52
+#logo	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^#logo {$/;"	function	line:60
+&:hover	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^  &:hover {$/;"	function	line:69
+footer	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^footer {$/;"	function	line:77
+a	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^  a {$/;"	function	line:82
+&:hover	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^    &:hover {$/;"	function	line:84
+small	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^small {$/;"	function	line:88
+ul	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^ul {$/;"	function	line:91
+li	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^  li {$/;"	function	line:94
