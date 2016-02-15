@@ -28,3 +28,11 @@ test	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^t
 database	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  database: fitbit_community_test$/;"	function	line:13
 production	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^production:$/;"	function	line:15
 database	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  database: fitbit_community_production$/;"	function	line:17
+ProfileController	/Users/furukawatoshiki/Development/fitbit_community/app/controllers/profile_controller.rb	/^class ProfileController < ApplicationController$/;"	class	line:1
+new	/Users/furukawatoshiki/Development/fitbit_community/app/controllers/profile_controller.rb	/^  def new$/;"	method	line:2	class:ProfileController
+show	/Users/furukawatoshiki/Development/fitbit_community/app/controllers/profile_controller.rb	/^  def show$/;"	method	line:6	class:ProfileController
+edit	/Users/furukawatoshiki/Development/fitbit_community/app/controllers/profile_controller.rb	/^  def edit$/;"	method	line:10	class:ProfileController
+AddUser	/Users/furukawatoshiki/Development/fitbit_community/db/migrate/20160215083055_add_user.rb	/^class AddUser < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/furukawatoshiki/Development/fitbit_community/db/migrate/20160215083055_add_user.rb	/^  def change$/;"	method	line:2	class:AddUser
+AddUserToIntroduction	/Users/furukawatoshiki/Development/fitbit_community/db/migrate/20160215150601_add_user_to_introduction.rb	/^class AddUserToIntroduction < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/furukawatoshiki/Development/fitbit_community/db/migrate/20160215150601_add_user_to_introduction.rb	/^  def change$/;"	method	line:2	class:AddUserToIntroduction
