@@ -16,3 +16,15 @@ a	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/sta
 small	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^small {$/;"	function	line:88
 ul	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^ul {$/;"	function	line:91
 li	/Users/furukawatoshiki/Development/fitbit_community/app/assets/stylesheets/static_pages.scss	/^  li {$/;"	function	line:94
+default	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^default: &default$/;"	function	line:1
+adapter	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  adapter: postgresql$/;"	function	line:2
+encoding	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  encoding: unicode$/;"	function	line:3
+pool	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  pool: 5$/;"	function	line:4
+host	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  host: localhost$/;"	function	line:5
+username	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  username: postgres$/;"	function	line:6
+development	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^development:$/;"	function	line:8
+database	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  database: fitbit_community_development$/;"	function	line:10
+test	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^test:$/;"	function	line:11
+database	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  database: fitbit_community_test$/;"	function	line:13
+production	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^production:$/;"	function	line:15
+database	/Users/furukawatoshiki/Development/fitbit_community/config/database.yml	/^  database: fitbit_community_production$/;"	function	line:17

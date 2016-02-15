@@ -7,11 +7,10 @@ default: &default
 
 development:
   <<: *default
-  database: fitbit_community_development​
-
+  database: fitbit_community_development
 test:
   <<: *default
-  database: fitbit_community_app_test
+  database: fitbit_community_test
 
 production:
   <<: *default
